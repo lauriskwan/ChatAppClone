@@ -5,7 +5,7 @@ const Search = () => {
   return (
     <div className="search">
       <div className="searchForm">
-        <input type="text" placeholder="find a user" />
+        <input type="text" placeholder="Find a user" />
       </div>
       <div className="userChat">
         <img src={avatar} alt="" />
@@ -18,3 +18,5 @@ const Search = () => {
 };
 
 export default Search;
+
+// 29:07
